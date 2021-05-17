@@ -1,0 +1,1 @@
+document.body.innerHTML = "<h1>This is conent from javascript</h1>";
